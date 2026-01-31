@@ -1,2 +1,2 @@
 # The game of Turing
-Template for github.io pages
+Redirect to https://game-of-turing.github.io
