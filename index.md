@@ -1,9 +1,8 @@
 ---
 layout: home
-title: The game of Turing
+title: The Game of Turing
 ---
-# The game of Turing
-<pre>
-  The game of Turing
-</pre>
-[Page 1](./pages/page_1)
+# The Curse of Learning
+<script>
+  window.location.href = "https://game-of-turing.github.io/";
+</script>
